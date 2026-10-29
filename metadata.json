@@ -1,0 +1,6 @@
+{
+  "name": "QUẢN LÝ BƠM KỸ THUẬT HẠ TẦNG – BNC",
+  "description": "Ứng dụng quản lý thiết bị bơm, motor, theo dõi vị trí trạm, bảo trì định kỳ và sửa chữa - Bộ phận Kỹ thuật Hạ tầng BNC (Bà Nà Hills)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
